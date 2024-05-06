@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nicole!...AKA burntout-octopus
 - 👀 I’m interested in innovating ideas through creating and fostering tech applications
-- 🌱 I’m currently  learning Javascript data structures and algorithms
 - 💞️ I’m currently partcipating in as much Hackathons as I can
 - 📫 How to reach me rachidinicole@gmail.com
 - 😄 Pronouns: her/she
